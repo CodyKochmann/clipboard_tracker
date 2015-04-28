@@ -1,10 +1,10 @@
 # clipboard_tracker
 Python clipboard logger for OSX
 
-This was created to give me a portable log of all of my carport activity so if I ever needed a link one day one in the past, I could go look for it. There are other applications out there that already do this but I wanted something solid, lightweight, and simple.
+This was created to give me a portable log of all of my clipboard activity so if I ever needed a link one day one in the past, I could go look for it. There are other applications out there that already do this but I wanted something solid, lightweight, and simple.
 
 To Do List:
-- [ ]  create an exporter of that creates a webpage to interact with the clips
+- [ ]  create an exporter of that builds a webpage to interact with the clips
 - [ ]  add encryption to the CSV file
 - [ ]  add a CSV optimizer that removes duplicates from being entered
 

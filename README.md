@@ -3,8 +3,16 @@ Python clipboard logger for OSX
 
 This was created to give me a portable log of all of my carport activity so if I ever needed a link one day one in the past, I could go look for it. There are other applications out there that already do this but I wanted something solid, lightweight, and simple.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/CodyKochmann/clipboard_tracker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+To Do List:
+- [ ]  create an exporter of that creates a webpage to interact with the clips
+- [ ]  add encryption to the CSV file
+- [ ]  add a CSV optimizer that removes duplicates from being entered
 
+Considering:
+- merging the CSV file and the script file for one portable script
+- adding support for Linux
+- adding a delete function
+- adding a command line interface
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/CodyKochmann/clipboard_tracker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 

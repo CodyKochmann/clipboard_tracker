@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Cody L. Kochmann
 # Created: Sun Apr 26 15:34:51 PDT 2015
-# Description: Clipboard tracker for OSX
+# Description: Clipboard logger for OSX
 # Version: 1.0
 
 # Enter the path that you want via clipboard database 
